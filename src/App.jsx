@@ -68,11 +68,11 @@ const EDUCATION = [
 ];
 
 const NEWS = [
-  { id: 1, date: "Dec 2025", content: "Our latest work on Versatile Medical Segmentation was accepted by IEEE TMI.", tag: "Journal" },
-  { id: 2, date: "Nov 2025", content: "Our latest work on Lightweight SAM was accepted by IEEE TCSVT.", tag: "Journal" },
-  { id: 3, date: "July 2025", content: "Our latest work on 3D Vessel Segmentation was accepted by ACM TOMM.", tag: "Journal" },
-  { id: 4, date: "Jun 2025", content: "One paper accepted by MICCAI 2025.", tag: "Conference" },
-  { id: 5, date: "May 2025", content: "Our latest work on Nuclei SAM was accepted by MedIA.", tag: "Journal" },
+  { id: 1, date: "Dec 2025", content: "Our latest work on Versatile Medical Segmentation was accepted by \<b\> IEEE TMI.\</b\>", tag: "Journal" },
+  { id: 2, date: "Nov 2025", content: "Our latest work on Lightweight SAM was accepted by \<b\> IEEE TCSVT.\</b\>", tag: "Journal" },
+  { id: 3, date: "July 2025", content: "Our latest work on 3D Vessel Segmentation was accepted by \<b\> ACM TOMM.\</b\>", tag: "Journal" },
+  { id: 4, date: "Jun 2025", content: "One paper accepted by \<b\> MICCAI 2025\</b\>.", tag: "Conference" },
+  { id: 5, date: "May 2025", content: "Our latest work on Nuclei SAM was accepted by \<b\> MedIA.\</b\>", tag: "Journal" },
 ];
 
 const PUBLICATIONS = [
