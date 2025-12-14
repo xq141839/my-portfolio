@@ -9,5 +9,5 @@ export default defineConfig({
   // 例如，如果你的仓库地址是 https://github.com/san-zhang/academic-site
   // 那么这里就填 '/academic-site/'
   // 如果你是部署到 https://san-zhang.github.io/ (根域名)，则填 '/'
-  base: '/', 
+  base: '/my-portfolio/', 
 })
